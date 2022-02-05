@@ -1,0 +1,232 @@
+ 
+                         TRANSACTIONS FOR SEASON THRU 7/20
+ 
+           4/ 1  RELEASE     Adam                       KELLY,MIKE            
+           4/ 1  TRADE       Mike C.                    TRAMMELL,BUBBA        Adam                       KELLY,MIKE          
+           4/ 1  WAIVE       Griffey and Co.            MOHLER,MIKE           
+           4/13  CLAIM                                                        Randy's Cavaliers          SANDERS,SCOTT       
+           4/13  CLAIM                                                        Randy's Cavaliers          SPRINGER,DENNIS     
+           4/13  CLAIM                                                        Steve's Q104 squad         ORTIZ,DAVID         
+           4/13  CLAIM                                                        Steve's Q104 squad         RAPP,PAT            
+           4/13  CLAIM                                                        Murderer's row             BLOWERS,MIKE        
+           4/13  CLAIM                                                        Murderer's row             OCHOA,ALEX          
+           4/13  CLAIM                                                        Murderer's row             SWIFT,BILL          
+           4/13  CLAIM                                                        Pitchers 'R' Us            MAGADAN,DAVE        
+           4/13  CLAIM                                                        Pitchers 'R' Us            MARTIN,NORBERTO     
+           4/13  CLAIM                                                        New kid in town            CARUSO,MIKE         
+           4/13  CLAIM                                                        New kid in town            TAYLOR,BILLY        
+           4/13  CLAIM                                                        Mr. Lucky's Gang           BUTLER,RICH         
+           4/13  CLAIM                                                        Blaise's Bunch             MORRIS,HAL          
+           4/13  CLAIM                                                        Blaise's Bunch             POSADA,JORGE        
+           4/13  CLAIM                                                        Wally Pipp Sucked Anyways  BURBA,DAVE          
+           4/13  CLAIM                                                        Wally Pipp Sucked Anyways  TROMBLEY,MIKE       
+           4/13  RESERVE     Wally Pipp Sucked Anyways  OGEA,CHAD             
+           4/13  RESERVE     Blaise's Bunch             GREENE,TODD           
+           4/13  RESERVE     Blaise's Bunch             DELGADO,CARLOS        
+           4/13  RESERVE     Mr. Lucky's Gang           KELLY,MIKE            
+           4/13  RESERVE     New kid in town            TEJADA,MIGUEL         
+           4/13  WAIVE       New kid in town            GOODEN,DWIGHT         
+           4/13  RESERVE     Pitchers 'R' Us            PHILLIPS,TONY         
+           4/13  RESERVE     Murderer's row             CONINE,JEFF           
+           4/13  RESERVE     Murderer's row             APPIER,KEVIN          
+           4/13  RESERVE     Steve's Q104 squad         DAVIS,CHILI           
+           4/13  RESERVE     Steve's Q104 squad         RIGBY,BRAD            
+           4/13  RESERVE     Randy's Cavaliers          RIVERA,MARIANO        
+           4/13  CLAIM                                                        Murderer's row             ABBOTT,KURT         
+           4/20  CLAIM                                                        Murderer's row             EVANS,TOM           
+           4/20  WAIVE       Murderer's row             BLOWERS,MIKE          
+           4/20  CLAIM                                                        Murderer's row             SUTTON,LARRY        
+           4/20  TRADE       Murderer's row             GILES,BRIANS.         Randy's Cavaliers          STEWART,SHANNON     
+           4/20  CLAIM                                                        Griffey and Co.            SMITH,BOBBY         
+           4/20  RESERVE     Griffey and Co.            BOGGS,WADE            
+           4/20  WAIVE       Frozen Tundra              DRABEK,DOUG           
+           4/20  CLAIM                                                        Frozen Tundra              GOODEN,DWIGHT       
+           4/20  WAIVE       Wally Pipp Sucked Anyways  TROMBLEY,MIKE         
+           4/20  ACTIVATE                                                     Wally Pipp Sucked Anyways  OGEA,CHAD           
+           4/20  CLAIM                                                        Mr. Lucky's Gang           CORDERO,WIL         
+           4/27  RESERVE     Randy's Cavaliers          PAVLIK,ROGER          
+           4/27  WAIVE       Randy's Cavaliers          SPRINGER,DENNIS       
+           4/27  ACTIVATE                                                     Randy's Cavaliers          RIVERA,MARIANO      
+           4/27  CLAIM                                                        Randy's Cavaliers          EYRE,SCOTT          
+           4/27  CLAIM                                                        Murderer's row             DRABEK,DOUG         
+           4/27  CLAIM                                                        Murderer's row             RUSCH,GLENDON       
+           4/27  RESERVE     Murderer's row             KAMIENIECKI,SCOTT     
+           4/27  WAIVE       Murderer's row             MATHEWS,T.J.          
+           4/27  RESERVE     New kid in town            BUHNER,JAY            
+           4/27  CLAIM                                                        New kid in town            DUCEY,ROB           
+           4/27  RESERVE     Mr. Lucky's Gang           CRUZ,DEIVI            
+           4/27  WAIVE       Mr. Lucky's Gang           BUTLER,RICH           
+           4/27  ACTIVATE                                                     Mr. Lucky's Gang           KELLY,MIKE          
+           4/27  CLAIM                                                        Mr. Lucky's Gang           LEDESMA,AARON       
+ 
+ 
+ 
+ 
+                         TRANSACTIONS FOR SEASON THRU 7/20
+ 
+           4/27  RESERVE     Blaise's Bunch             MCDONALD,JASON        
+           4/27  ACTIVATE                                                     Blaise's Bunch             DELGADO,CARLOS      
+           4/27  WAIVE       New kid in town            SADLER,DONNIE         
+           4/27  CLAIM                                                        New kid in town            LEMKE,MARK          
+           4/27  WAIVE       Griffey and Co.            BALDWIN,JAMES         
+           4/27  CLAIM                                                        Griffey and Co.            TROMBLEY,MIKE       
+           5/ 4  RESERVE     Wally Pipp Sucked Anyways  MYERS,ROD             
+           5/ 4  RESERVE     Wally Pipp Sucked Anyways  TRAMMELL,BUBBA        
+           5/ 4  CLAIM                                                        Wally Pipp Sucked Anyways  ABBOTT,JEFF         
+           5/ 4  CLAIM                                                        Wally Pipp Sucked Anyways  BUTLER,RICH         
+           5/ 4  WAIVE       Murderer's row             SUTTON,LARRY          
+           5/ 4  ACTIVATE                                                     Murderer's row             CONINE,JEFF         
+           5/ 4  WAIVE       Mr. Lucky's Gang           LEDESMA,AARON         
+           5/ 4  ACTIVATE                                                     Mr. Lucky's Gang           CRUZ,DEIVI          
+           5/ 4  CLAIM                                                        Pitchers 'R' Us            BELL,DAVID(AL)      
+           5/ 4  RESERVE     Steve's Q104 squad         NIXON,OTIS            
+           5/ 4  CLAIM                                                        Steve's Q104 squad         MASHORE,DAMON       
+           5/ 4  RESERVE     Griffey and Co.            MCDOWELL,JACK         
+           5/ 4  CLAIM                                                        Griffey and Co.            LOWE,DEREK          
+           5/ 4  RESERVE     Randy's Cavaliers          CASANOVA,RAUL         
+           5/ 4  WAIVE       Randy's Cavaliers          FLORIE,BRYCE          
+           5/ 4  WAIVE       Randy's Cavaliers          SANDERS,SCOTT         
+           5/ 4  CLAIM                                                        Randy's Cavaliers          OQUIST,MIKE         
+           5/ 4  CLAIM                                                        Randy's Cavaliers          SPRINGER,DENNIS     
+           5/ 4  CLAIM                                                        Randy's Cavaliers          HATTEBERG,SCOTT     
+           5/ 4  CLAIM                                                        Frozen Tundra              ENCARNACION,JUAN    
+           5/ 4  RESERVE     Frozen Tundra              ROBERTS,BIP           
+           5/11  RESERVE     Frozen Tundra              ENCARNACION,JUAN      
+           5/11  ACTIVATE                                                     Frozen Tundra              ROBERTS,BIP         
+           5/11  CLAIM                                                        Murderer's row             DYE,JERMAINE        
+           5/11  WAIVE       Murderer's row             OCHOA,ALEX            
+           5/11  WAIVE       Blaise's Bunch             MORRIS,HAL            
+           5/11  ACTIVATE                                                     Blaise's Bunch             MCDONALD,JASON      
+           5/11  WAIVE       Murderer's row             RUSCH,GLENDON         
+           5/11  ACTIVATE                                                     Murderer's row             KAMIENIECKI,SCOTT   
+           5/11  RESERVE     Pitchers 'R' Us            KARCHNER,MATT         
+           5/11  CLAIM                                                        Pitchers 'R' Us            SIMAS,BILL          
+           5/11  RESERVE     Griffey and Co.            BERROA,GERONIMO       
+           5/11  CLAIM                                                        Griffey and Co.            WHITEN,MARK         
+           5/18  RESERVE     Frozen Tundra              GOODEN,DWIGHT         
+           5/18  CLAIM                                                        Frozen Tundra              MORGAN,MIKE         
+           5/18  WAIVE       Murderer's row             HANEY,CHRIS           
+           5/18  CLAIM                                                        Murderer's row             RUSCH,GLENDON       
+           5/18  CLAIM                                                        Mr. Lucky's Gang           MORRIS,HAL          
+           5/18  CLAIM                                                        Wally Pipp Sucked Anyways  AVERY,STEVE         
+           5/18  RESERVE     Wally Pipp Sucked Anyways  ROSE,BRIAN            
+           5/18  RESERVE     Griffey and Co.            SMITH,BOBBY           
+           5/18  ACTIVATE                                                     Griffey and Co.            BOGGS,WADE          
+           5/18  CLAIM                                                        Murderer's row             BLOWERS,MIKE        
+           5/18  RESERVE     Murderer's row             EVANS,TOM             
+           5/18  CLAIM                                                        Wally Pipp Sucked Anyways  BELLHORN,MARK       
+           5/25  RESERVE     Griffey and Co.            TROMBLEY,MIKE         
+           5/25  ACTIVATE                                                     Griffey and Co.            MCDOWELL,JACK       
+           5/25  WAIVE       Pitchers 'R' Us            SIMAS,BILL            
+           5/25  ACTIVATE                                                     Pitchers 'R' Us            KARCHNER,MATT       
+           6/ 1  RESERVE     Murderer's row             KAMIENIECKI,SCOTT     
+           6/ 1  CLAIM                                                        Murderer's row             CARPENTER,CHRIS     
+           6/ 1  RESERVE     Frozen Tundra              ROBERTS,BIP           
+ 
+ 
+ 
+                         TRANSACTIONS FOR SEASON THRU 7/20
+ 
+           6/ 1  RESERVE     Blaise's Bunch             MCDONALD,JASON        
+           6/ 1  CLAIM                                                        Blaise's Bunch             CHRISTENSON,RYAN    
+           6/ 1  CLAIM                                                        Frozen Tundra              WINN,RANDY          
+           6/ 1  CLAIM                                                        New kid in town            OCHOA,ALEX          
+           6/ 1  WAIVE       New kid in town            SIERRA,RUBEN          
+           6/ 1  WAIVE       New kid in town            LEMKE,MARK            
+           6/ 1  ACTIVATE                                                     New kid in town            TEJADA,MIGUEL       
+           6/ 1  TRADE       Steve's Q104 squad         SALMON,TIM            Murderer's row             CONINE,JEFF         
+           6/ 1  TRADE       Steve's Q104 squad         ESCOBAR,KELVIM        Murderer's row             HERNANDEZ,ROBERTO   
+           6/ 1  WAIVE       Griffey and Co.            SMITH,BOBBY           
+           6/ 1  RESERVE     Murderer's row             KAMIENIECKI,SCOTT     
+           6/ 8  CLAIM                                                        Pitchers 'R' Us            HERNANDEZ,ORLANDO   
+           6/ 8  RESERVE     Griffey and Co.            MCDOWELL,JACK         
+           6/ 8  CLAIM                                                        Griffey and Co.            STEIN,BLAKE         
+           6/ 8  RESERVE     Murderer's row             ESCOBAR,KELVIM        
+           6/ 8  CLAIM                                                        Murderer's row             STANTON,MIKE        
+           6/ 8  WAIVE       Murderer's row             DRABEK,DOUG           
+           6/ 8  CLAIM                                                        Murderer's row             PICHARDO,HIPOLITO   
+           6/ 8  TRADE       Wally Pipp Sucked Anyways  BENITEZ,ARMANDO       Pitchers 'R' Us            MILTON,ERIC         
+           6/ 8  TRADE       Wally Pipp Sucked Anyways  BURBA,DAVE            Pitchers 'R' Us            HERNANDEZ,ORLANDO   
+           6/ 8  RESERVE     Blaise's Bunch             HAMMONDS,JEFFREY      
+           6/ 8  RESERVE     Blaise's Bunch             ALVAREZ,WILSON        
+           6/ 8  CLAIM                                                        Blaise's Bunch             NEVIN,PHIL          
+           6/ 8  CLAIM                                                        Blaise's Bunch             PARQUE,JIM          
+           6/ 8  WAIVE       Frozen Tundra              MORGAN,MIKE           
+           6/ 8  ACTIVATE                                                     Frozen Tundra              GOODEN,DWIGHT       
+           6/ 8  WAIVE       Steve's Q104 squad         MASHORE,DAMON         
+           6/ 8  ACTIVATE                                                     Steve's Q104 squad         NIXON,OTIS          
+           6/ 8  WAIVE       Griffey and Co.            ELSTER,KEVIN          
+           6/ 8  CLAIM                                                        Griffey and Co.            SMITH,BOBBY         
+           6/ 8  TRADE       Randy's Cavaliers          CLARK,WILL            Pitchers 'R' Us            MAGADAN,DAVE        
+           6/ 8  TRADE       Randy's Cavaliers          MCCRACKEN,QUINTON     Pitchers 'R' Us            DUNSTON,SHAWON      
+           6/ 8  TRADE       Randy's Cavaliers          CONE,DAVID            Pitchers 'R' Us            JOHNSON,RANDY       
+           6/ 8  RESERVE     Randy's Cavaliers          ECKERSLEY,DENNIS      
+           6/ 8  CLAIM                                                        Randy's Cavaliers          FLORIE,BRYCE        
+           6/15  CLAIM                                                        Murderer's row             ELSTER,KEVIN        
+           6/15  WAIVE       Murderer's row             ABBOTT,KURT           
+           6/15  RESERVE     Pitchers 'R' Us            WILLIAMS,BERNIE       
+           6/15  CLAIM                                                        Pitchers 'R' Us            LEDEE,RICKY         
+           6/15  CLAIM                                                        Griffey and Co.            MORGAN,MIKE         
+           6/15  WAIVE       Griffey and Co.            WITT,BOBBY            
+           6/15  RESERVE     Griffey and Co.            JAMES,MIKE            
+           6/15  WAIVE       Griffey and Co.            TROMBLEY,MIKE         
+           6/15  CLAIM                                                        Griffey and Co.            QUANTRILL,PAUL      
+           6/15  WAIVE       Blaise's Bunch             HANSON,ERIK           
+           6/15  CLAIM                                                        Blaise's Bunch             OLIVARES,OMAR       
+           6/15  WAIVE       New kid in town            DUCEY,ROB             
+           6/15  ACTIVATE                                                     New kid in town            BUHNER,JAY          
+           6/15  RESERVE     Randy's Cavaliers          MCLEMORE,MARK         
+           6/15  RESERVE     Randy's Cavaliers          GILES,BRIANS.         
+           6/15  RESERVE     Randy's Cavaliers          MAGADAN,DAVE          
+           6/15  CLAIM                                                        Randy's Cavaliers          CEDENO,DOMINGO      
+           6/15  CLAIM                                                        Randy's Cavaliers          HALTER,SHANE        
+           6/15  CLAIM                                                        Randy's Cavaliers          TOMBERLIN,ANDY      
+           6/15  WAIVE       Griffey and Co.            WHITEN,MARK           
+           6/15  ACTIVATE                                                     Griffey and Co.            BERROA,GERONIMO     
+           6/22  WAIVE       Murderer's row             LEYRITZ,JIM           
+           6/22  RESERVE     Murderer's row             KEY,JIMMY             
+ 
+ 
+ 
+                         TRANSACTIONS FOR SEASON THRU 7/20
+ 
+           6/22  CLAIM                                                        Murderer's row             BAUGHMAN,JUSTIN     
+           6/22  CLAIM                                                        Murderer's row             WASHBURN,JARROD     
+           6/22  WAIVE       Pitchers 'R' Us            ASSENMACHER,PAUL      
+           6/22  CLAIM                                                        Pitchers 'R' Us            WITT,BOBBY          
+           6/22  TRADE       Blaise's Bunch             THOMAS,FRANK          Frozen Tundra              RIPKEN,CAL          
+           6/22  TRADE       Blaise's Bunch             AYALA,BOBBY           Frozen Tundra              THOMPSON,JUSTIN     
+           6/22  WAIVE       Frozen Tundra              AYALA,BOBBY           
+           6/22  CLAIM                                                        Frozen Tundra              TROMBLEY,MIKE       
+           6/29  TRADE       Pitchers 'R' Us            WITT,BOBBY            Frozen Tundra              CLOUDE,KEN          
+           6/29  WAIVE       Frozen Tundra              WITT,BOBBY            
+           6/29  CLAIM                                                        Frozen Tundra              ANDERSON,MATT       
+           6/29  RESERVE     Frozen Tundra              CRUZJR,JOSE           
+           6/29  ACTIVATE                                                     Frozen Tundra              ROBERTS,BIP         
+           6/29  WAIVE       Randy's Cavaliers          CEDENO,DOMINGO        
+           6/29  WAIVE       Randy's Cavaliers          HALTER,SHANE          
+           6/29  ACTIVATE                                                     Randy's Cavaliers          MCLEMORE,MARK       
+           6/29  ACTIVATE                                                     Randy's Cavaliers          GILES,BRIANS.       
+           6/29  RESERVE     Randy's Cavaliers          MOLITOR,PAUL          
+           6/29  RESERVE     Randy's Cavaliers          TOMBERLIN,ANDY        
+           6/29  CLAIM                                                        Randy's Cavaliers          MERLONI,LOU         
+           6/29  CLAIM                                                        Randy's Cavaliers          WHITEN,MARK         
+           6/29  RESERVE     Murderer's row             DYE,JERMAINE          
+           6/29  CLAIM                                                        Murderer's row             ALLENSWORTH,JERMAIN(
+           7/ 6  RESERVE     Steve's Q104 squad         SPIEZIO,SCOTT         
+           7/ 6  CLAIM                                                        Steve's Q104 squad         BENJAMIN,MIKE       
+           7/ 6  RESERVE     Griffey and Co.            MORGAN,MIKE           
+           7/ 6  CLAIM                                                        Griffey and Co.            SWINDELL,GREG       
+           7/ 6  RESERVE     Griffey and Co.            MORGAN,MIKE           
+           7/ 6  CLAIM                                                        Griffey and Co.            SWINDELL,GREG       
+           7/13  TRADE       Murderer's row             ALICEA,LUIS           Wally Pipp Sucked Anyways  MCGRIFF,FRED        
+           7/13  TRADE       Murderer's row             ELSTER,KEVIN          Wally Pipp Sucked Anyways  GONZALEZ,ALEX       
+           7/13  TRADE       Murderer's row             GREEN,SHAWN           Wally Pipp Sucked Anyways  LEWIS,DARREN        
+           7/13  TRADE       Murderer's row             SALMON,TIM            Wally Pipp Sucked Anyways  LOFTON,KENNY        
+           7/13  TRADE       Murderer's row             CARPENTER,CHRIS       Wally Pipp Sucked Anyways  JACKSON,MIKE        
+           7/13  WAIVE       Blaise's Bunch             NEVIN,PHIL            
+           7/13  ACTIVATE                                                     Blaise's Bunch             HAMMONDS,JEFFREY    
+           7/13  WAIVE       Blaise's Bunch             PARQUE,JIM            
+           7/13  ACTIVATE                                                     Blaise's Bunch             ALVAREZ,WILSON      
+           7/20  WAIVE       Murderer's row             STANTON,MIKE          
+           7/20  ACTIVATE                                                     Murderer's row             ESCOBAR,KELVIM      

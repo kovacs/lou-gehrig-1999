@@ -1,0 +1,47 @@
+                                                     LOU GEHRIG FANTASY LEAGUE                                                      
+                                                  STANDINGS FOR WEEK ENDING  6/15                                                   
+ 
+                                                           RANKING TOTALS                                                           
+                      TEAM      BAVG    HR    SB   RBI  RUNS   ERA  WHIP  WINS SAVES   K'S    TOTAL
+                 (WEIGHT)        1.0   1.0   1.0   1.0   1.0   1.0   1.0   1.0   1.0   1.0 
+ 
+          Frozen Tundra          7.0  10.0   9.0  10.0   6.0   6.0   8.0   9.5   2.0  10.0    77.50
+          Steve's Q104 squad     6.0   8.5  10.0   9.0  10.0   7.0   5.0   1.5   6.5   8.0    71.50
+          Griffey and Co.        9.0   2.5   7.5   7.0   3.0  10.0   7.0   5.5   4.0   5.0    60.50
+          Pitchers 'R' Us        8.0   8.5   3.5   1.5   5.0   8.0   6.0   9.5   6.5   3.5    60.00
+          Wally Pipp Sucked An   4.0   5.5   5.5   1.5   9.0   9.0  10.0   5.5   2.0   3.5    55.50
+          Mr. Lucky's Gang       1.0   5.5   3.5   6.0   8.0   3.0   3.0   5.5  10.0   7.0    52.50
+          Murderer's row         5.0   2.5   7.5   3.5   7.0   5.0   9.0   5.5   2.0   2.0    49.00
+          New kid in town       10.0   4.0   5.5   3.5   1.0   4.0   2.0   5.5   6.5   6.0    48.00
+          Randy's Cavaliers      2.0   7.0   1.5   5.0   3.0   2.0   1.0   1.5   9.0   9.0    41.00
+          Blaise's Bunch         3.0   1.0   1.5   8.0   3.0   1.0   4.0   5.5   6.5   1.0    34.50
+ 
+ 
+ 
+                                                      INDIVIDUAL STAT RANKINGS                                                      
+        Batting Average             Home Runs               Stolen Bases                 RBI                  Runs Scored      
+ 1   New kid in town 0.3196   Frozen Tundra       12   Steve's Q104 sq      9   Frozen Tundra       41   Steve's Q104 sq     41
+ 2   Griffey and Co. 0.3171   Steve's Q104 sq     11   Frozen Tundra        7   Steve's Q104 sq     39   Wally Pipp Suck     39
+ 3   Pitchers 'R' Us 0.2982   Pitchers 'R' Us     11   Murderer's row       6   Blaise's Bunch      37   Mr. Lucky's Gan     38
+ 4   Frozen Tundra   0.2956   Randy's Cavalie     10   Griffey and Co.      6   Griffey and Co.     35   Murderer's row      37
+ 5   Steve's Q104 sq 0.2838   Mr. Lucky's Gan      8   New kid in town      5   Mr. Lucky's Gan     29   Frozen Tundra       35
+ 6   Murderer's row  0.2827   Wally Pipp Suck      8   Wally Pipp Suck      5   Randy's Cavalie     28   Pitchers 'R' Us     33
+ 7   Wally Pipp Suck 0.2796   New kid in town      7   Pitchers 'R' Us      4   Murderer's row      27   Randy's Cavalie     30
+ 8   Blaise's Bunch  0.2613   Murderer's row       6   Mr. Lucky's Gan      4   New kid in town     27   Griffey and Co.     30
+ 9   Randy's Cavalie 0.2553   Griffey and Co.      6   Randy's Cavalie      3   Pitchers 'R' Us     23   Blaise's Bunch      30
+10   Mr. Lucky's Gan 0.2491   Blaise's Bunch       5   Blaise's Bunch       3   Wally Pipp Suck     23   New kid in town     26
+ 
+ 
+              ERA                      WHIP                     WINS                    SAVES                 K's (Pitch)      
+ 1   Griffey and Co. 2.9531   Wally Pipp Suck 1.0394   Frozen Tundra        5   Mr. Lucky's Gan      5   Frozen Tundra       55
+ 2   Wally Pipp Suck 3.1890   Murderer's row  1.0791   Pitchers 'R' Us      5   Randy's Cavalie      4   Randy's Cavalie     47
+ 3   Pitchers 'R' Us 3.2870   Frozen Tundra   1.0986   Murderer's row       3   Steve's Q104 sq      2   Steve's Q104 sq     42
+ 4   Steve's Q104 sq 3.9057   Griffey and Co. 1.2187   Griffey and Co.      3   Pitchers 'R' Us      2   Mr. Lucky's Gan     41
+ 5   Frozen Tundra   3.9296   Pitchers 'R' Us 1.2783   New kid in town      3   New kid in town      2   New kid in town     40
+ 6   Murderer's row  4.0791   Steve's Q104 sq 1.4528   Mr. Lucky's Gan      3   Blaise's Bunch       2   Griffey and Co.     39
+ 7   New kid in town 4.7455   Blaise's Bunch  1.4884   Blaise's Bunch       3   Griffey and Co.      1   Pitchers 'R' Us     35
+ 8   Mr. Lucky's Gan 4.8358   Mr. Lucky's Gan 1.5224   Wally Pipp Suck      3   Frozen Tundra        0   Wally Pipp Suck     35
+ 9   Randy's Cavalie 5.5687   New kid in town 1.5636   Randy's Cavalie      2   Murderer's row       0   Murderer's row      32
+10   Blaise's Bunch  5.6512   Randy's Cavalie 1.7063   Steve's Q104 sq      2   Wally Pipp Suck      0   Blaise's Bunch      21
+ 
+ 

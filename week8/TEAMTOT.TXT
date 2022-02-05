@@ -1,0 +1,611 @@
+                                                           Frozen Tundra                                                            
+                                                   ROTISSERIE STATS THROUGH  5/25                                                   
+                                        COMPOSITE                                        CURRENT WEEK
+POS     NAME                 AB  BAVG    HR    SB   RBI  RUNS             AB  BAVG    HR    SB   RBI  RUNS 
+C   FLETCHER,DARR           126 0.238     3     0    19    13             19 0.316     0     0     5     1 
+1B  VAUGHN,MO               190 0.321    13     0    31    29             18 0.278     2     0     3     3 
+3B  RIPKEN,CAL              183 0.257     3     0    20    22             26 0.269     0     0     0     2 
+1/3 WALKER,TODD             130 0.354     3     5    18    21             13 0.308     1     1     3     4 
+2B  CORA,JOEY               197 0.249     1     4     8    32             23 0.174     0     1     3     3 
+SS  RODRIGUEZ,ALE           210 0.310    18     7    39    38             27 0.370     2     0     7     4 
+2/S CAIRO,MIGUEL            139 0.266     2     3    17    17             15 0.333     1     0     4     3 
+OF  ANDERSON,GARR           183 0.257     3     4    16    18             26 0.192     1     0     2     3 
+OF  CRUZJR,JOSE             112 0.214     2     2    10    12             18 0.278     1     1     5     4 
+OF  GONZALEZ,JUAN           199 0.317    13     1    61    37             22 0.364     3     0    11     5 
+OF  MERCED,ORLAND            91 0.253     3     0    17     8             12 0.333     0     0     3     1 
+OF  ROBERTS,BIP             105 0.248     0     6     9    17             35 0.314     0     2     4    10 
+OF  SURHOFF,B.J.            175 0.286     6     2    35    17             24 0.375     1     0     4     3 
+UT  FIELDER,CECIL           171 0.234     7     0    27    19             24 0.167     1     0     4     2 
+ 
+ 
+    OTHER HITTERS
+OF  ENCARNACION,J             0 0.000     0     0     0     0                   RESERVED
+ 
+    TEAM TOTAL             2211 0.275    77    34   327   300            302 0.288    13     5    58    48 
+ 
+ 
+                                             COMPOSITE                                   CURRENT WEEK
+                             IP   ERA  WHIP  WINS SAVES   K'S              IP   ERA  WHIP  WINS SAVES   K'S 
+P  CANDIOTTI,TOM           71.0  4.31  1.44     4     0    33             5.0  9.00  2.40     1     0     2 
+P  CLOUDE,KEN              51.1  5.26  1.69     3     0    36             9.2  2.79  1.45     0     0    14 
+P  GUZMAN,JUAN             59.2  6.18  1.47     2     0    55             6.0  1.50  1.17     1     0     6 
+P  HELLING,RICK            67.0  4.43  1.33     7     0    44            12.1  6.57  1.46     1     0     6 
+P  IRABU,HIDEKI            38.2  1.40  0.93     3     0    32             6.1  2.84  1.42     1     0     2 
+P  ROGERS,KENNY            75.1  3.58  1.30     6     0    36            15.1  2.35  1.17     0     0     7 
+P  SABERHAGEN,BR           42.0  6.43  1.45     5     0    25             7.0 16.71  2.29     0     0     3 
+P  THOMPSON,JUST           72.1  4.23  1.26     3     0    48             7.0  5.14  1.29     1     0     0 
+P  MORGAN,MIKE              5.0  9.00  2.40     0     0     1             5.0  9.00  2.40     0     0     1 
+ 
+      OTHER PITCHERS
+P  DRABEK,DOUG             15.1  7.63  1.43     1     0     7                WAIVED     4/20
+P  GOODEN,DWIGHT            0.0 ----- -----     0     0     0                RESERVED
+ 
+TEAM TOTAL                497.2  4.63  1.38    34     0   317            73.2  5.62  1.56     5     0    41 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                         Randy's Cavaliers                                                          
+                                                   ROTISSERIE STATS THROUGH  5/25                                                   
+                                        COMPOSITE                                        CURRENT WEEK
+POS     NAME                 AB  BAVG    HR    SB   RBI  RUNS             AB  BAVG    HR    SB   RBI  RUNS 
+C   HATTEBERG,SCO            29 0.241     1     0     1     4              5 0.400     1     0     1     1 
+1B  CLARK,WILL              172 0.291     7     1    27    32             18 0.111     0     0     1     1 
+3B  PALMER,DEAN             171 0.281    11     4    33    26             23 0.304     1     0     3     5 
+1/3 DAVIS,RUSS              152 0.283     8     1    29    22             23 0.217     0     0     2     2 
+2B  VALENTIN,JOHN           172 0.244     6     2    21    31             18 0.333     3     0     7     6 
+SS  BROSIUS,SCOTT           149 0.342     3     3    26    26             20 0.500     2     1     6     6 
+2/S MCLEMORE,MARK           169 0.308     3     8    31    34             23 0.348     1     0     9     5 
+OF  CARTER,JOE              138 0.261     3     1    12    18             15 0.133     0     1     0     1 
+OF  CURTIS,CHAD             122 0.295     5     7    25    25             21 0.238     0     1     1     3 
+OF  DAMON,JOHNNY            193 0.280     3     8    14    29             27 0.370     1     1     1     4 
+OF  MACK,SHANE              112 0.295     4     3    15    18             13 0.308     1     0     4     3 
+OF  MCCRACKEN,QUI           197 0.320     2     7    18    26             26 0.231     0     1     1     3 
+OF  GILES,BRIANS.            97 0.206     4     2    18    16             17 0.235     0     0     1     4 
+UT  MOLITOR,PAUL            186 0.280     1     2    22    25             26 0.462     0     1     5     7 
+ 
+ 
+    OTHER HITTERS
+C   CASANOVA,RAUL            35 0.143     0     0     2     2                   RESERVED
+OF  STEWART,SHANN            51 0.255     0     3     2     7                   TRADED     4/20
+ 
+    TEAM TOTAL             2145 0.282    61    52   296   341            275 0.302    10     6    42    51 
+ 
+ 
+                                             COMPOSITE                                   CURRENT WEEK
+                             IP   ERA  WHIP  WINS SAVES   K'S              IP   ERA  WHIP  WINS SAVES   K'S 
+P  CLEMENS,ROGER           62.1  3.32  1.22     5     0    60            13.0  7.62  1.46     1     0    14 
+P  CONE,DAVID              51.0  6.00  1.47     6     0    44            12.0  4.50  1.50     1     0     6 
+P  ECKERSLEY,DEN           15.2  8.62  1.85     2     1     8             1.0 18.00  6.00     0     0     0 
+P  MYERS,RANDY             15.2  2.30  1.02     2    10    12             1.0  0.00  1.00     0     1     2 
+P  RIVERA,MARIAN           13.0  0.69  0.54     1     8     8             1.0  0.00  0.00     0     1     1 
+P  WORRELL,TIM             44.0  6.14  1.48     2     0    29             7.0  3.86  1.00     0     0     6 
+P  EYRE,SCOTT              27.0  6.00  1.67     0     0    14             2.1 19.29  3.86     0     0     0 
+P  OQUIST,MIKE             18.2  6.75  1.39     0     0    10             6.1  7.11  1.26     0     0     4 
+P  SPRINGER,DENN           23.0  6.26  1.61     0     0     5            13.0  4.15  1.38     0     0     3 
+ 
+      OTHER PITCHERS
+P  FLORIE,BRYCE            17.2  3.57  1.58     2     0    17                WAIVED     5/ 4
+P  PAVLIK,ROGER            14.0  3.86  1.50     1     1     8                RESERVED
+P  SANDERS,SCOTT            5.0 19.80  4.00     0     0     3                WAIVED     5/ 4
+P  SPRINGER,DENN           19.0  5.21  1.63     0     0    11                WAIVED     4/27
+ 
+TEAM TOTAL                326.0  5.25  1.46    21    20   229            56.2  6.04  1.52     2     2    36 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                         Steve's Q104 squad                                                         
+                                                   ROTISSERIE STATS THROUGH  5/25                                                   
+                                        COMPOSITE                                        CURRENT WEEK
+POS     NAME                 AB  BAVG    HR    SB   RBI  RUNS             AB  BAVG    HR    SB   RBI  RUNS 
+C   FLAHERTY,JOHN           105 0.162     2     0     6    13             15 0.200     0     0     2     2 
+1B  KING,JEFF               170 0.253     9     1    34    25             21 0.238     1     1     2     3 
+3B  VENTURA,ROBIN           170 0.282     5     0    23    23             21 0.333     1     0     4     1 
+1/3 SEGUI,DAVID             172 0.337     8     1    33    29             31 0.258     0     0     3     3 
+2B  SPIEZIO,SCOTT           167 0.263     5     1    25    22             27 0.259     1     0     6     5 
+SS  JETER,DEREK             191 0.335     7    11    30    42             28 0.321     0     1     4     6 
+2/S OFFERMAN,JOSE           183 0.317     2     9    22    30             22 0.364     1     0     5     4 
+OF  ANDERSON,BRAD           111 0.153     4     6    13    17             25 0.280     0     3     2     5 
+OF  CAMERON,MIKE            127 0.213     1     4    15    18             16 0.188     0     1     2     3 
+OF  KELLY,ROBERTO            35 0.343     1     0     4     9              0 0.000     0     0     0     0 
+OF  SALMON,TIM              107 0.262    10     0    23    19             16 0.313     2     0     7     3 
+OF  STAIRS,MATT             135 0.311     7     3    32    24             17 0.176     0     1     2     0 
+OF  MASHORE,DAMON            22 0.227     0     0     2     1              1 0.000     0     0     0     0 
+UT  ORTIZ,DAVID              66 0.288     3     0    11    11              0 0.000     0     0     0     0 
+ 
+ 
+    OTHER HITTERS
+OF  NIXON,OTIS               93 0.226     0     4     5     8                   RESERVED
+UT  DAVIS,CHILI               4 0.250     0     0     0     0                   RESERVED
+ 
+    TEAM TOTAL             1858 0.271    64    40   278   291            240 0.271     6     7    39    35 
+ 
+ 
+                                             COMPOSITE                                   CURRENT WEEK
+                             IP   ERA  WHIP  WINS SAVES   K'S              IP   ERA  WHIP  WINS SAVES   K'S 
+P  ARROJO,ROLAND           63.0  3.43  1.22     6     0    47             3.2 12.27  3.00     0     0     7 
+P  ERICKSON,SCOT           72.1  5.10  1.53     4     0    52             7.2  2.35  0.91     0     0     9 
+P  ESCOBAR,KELVI           10.2 12.66  2.34     1     0    12             1.0  0.00  0.00     0     0     1 
+P  FETTERS,MIKE            14.2  3.68  1.02     0     2     7             1.1  0.00  1.50     0     0     0 
+P  HENRY,BUTCH              9.0  4.00  1.22     0     0     6             0.0 ----- -----     0     0     0 
+P  MOYER,JAMIE             76.2  3.29  1.16     2     0    56             7.1  4.91  1.50     0     0     4 
+P  OLIVER,DARREN           49.0  6.06  1.67     2     0    19             4.0 11.25  2.50     0     0     1 
+P  TEWKSBURY,BOB           64.1  4.48  1.13     3     0    29             3.0 18.00  3.33     0     0     1 
+P  RAPP,PAT                50.1  4.65  1.49     4     0    37            11.0  8.18  2.09     1     0     9 
+ 
+      OTHER PITCHERS
+P  RIGBY,BRAD               0.0 ----- -----     0     0     0                RESERVED
+ 
+TEAM TOTAL                410.0  4.59  1.36    22     2   265            39.0  7.38  1.90     1     0    32 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           Murderer's row                                                           
+                                                   ROTISSERIE STATS THROUGH  5/25                                                   
+                                        COMPOSITE                                        CURRENT WEEK
+POS     NAME                 AB  BAVG    HR    SB   RBI  RUNS             AB  BAVG    HR    SB   RBI  RUNS 
+C   SWEENEY,MIKE             99 0.222     3     1     8    11              3 0.333     0     0     0     0 
+1B  THOME,JIM               169 0.320    10     0    37    38             24 0.292     2     0     6     7 
+3B  BLOWERS,MIKE             29 0.345     1     0     7     5             29 0.345     1     0     7     5 
+1/3 LEYRITZ,JIM              95 0.305     7     0    17    11             11 0.273     0     0     1     0 
+2B  ABBOTT,KURT             108 0.296     1     2     8    15             29 0.310     0     0     1     3 
+SS  GARCIAPARRA,N           147 0.299     5     6    27    20              0 0.000     0     0     0     0 
+2/S ALICEA,LUIS              60 0.283     0     0     6    12              4 0.750     0     0     2     1 
+OF  GREEN,SHAWN             173 0.249     8     8    23    24             26 0.346     2     1     3     5 
+OF  GRIEVE,BEN              193 0.321     7     0    31    41             27 0.370     2     0     5     6 
+OF  HIGGINSON,BOB           168 0.327     9     0    27    31             32 0.344     2     0     5     5 
+OF  RAMIREZ,MANNY           164 0.274     7     1    30    20             23 0.348     1     0     6     4 
+OF  STEWART,SHANN           100 0.270     2    11     9    15              4 0.000     0     1     0     0 
+OF  DYE,JERMAINE             40 0.250     1     0     6     5             18 0.333     1     0     5     3 
+UT  CONINE,JEFF              67 0.209     2     0     7     7             24 0.292     1     0     4     4 
+ 
+ 
+    OTHER HITTERS
+3B  EVANS,TOM                 0 0.000     0     0     0     0                   RESERVED
+1/3 BLOWERS,MIKE             13 0.077     0     0     1     0                   WAIVED     4/20
+OF  GILES,BRIANS.            31 0.355     6     4    13    11                   TRADED     4/20
+OF  OCHOA,ALEX               43 0.233     1     1     5     6                   WAIVED     5/11
+UT  SUTTON,LARRY             24 0.292     0     0     3     3                   WAIVED     5/ 4
+ 
+    TEAM TOTAL             1723 0.286    70    34   265   275            254 0.331    12     2    45    43 
+ 
+ 
+                                             COMPOSITE                                   CURRENT WEEK
+                             IP   ERA  WHIP  WINS SAVES   K'S              IP   ERA  WHIP  WINS SAVES   K'S 
+P  BURKETT,JOHN            59.1  7.28  1.52     3     0    42             4.0 15.75  2.75     0     0     2 
+P  GORDON,TOM              27.2  1.30  0.83     3    18    23             2.1  0.00  0.00     0     2     3 
+P  HERNANDEZ,ROB           22.1  5.24  1.61     0     9    11             3.1  0.00  0.30     0     3     3 
+P  KAMIENIECKI,S           30.2  6.75  1.70     2     0    14             3.0 21.00  3.00     0     0     2 
+P  KEY,JIMMY               62.0  4.06  1.23     4     0    42             5.2 14.29  2.47     0     0     6 
+P  PETTITTE,ANDY           67.0  4.03  1.64     6     0    48             8.0  1.13  1.25     1     0     6 
+P  SWIFT,BILL              37.1  6.51  1.58     1     0    19             5.0  5.40  1.40     0     0     4 
+P  DRABEK,DOUG             31.0  3.48  0.97     3     0    15            13.0  4.15  0.85     1     0    10 
+P  RUSCH,GLENDON            7.0  5.14  1.57     0     0     2             7.0  5.14  1.57     0     0     2 
+ 
+      OTHER PITCHERS
+P  APPIER,KEVIN             0.0 ----- -----     0     0     0                RESERVED
+P  HANEY,CHRIS             35.2  8.58  1.77     2     0    22                WAIVED     5/18
+P  MATHEWS,T.J.             9.1  5.79  1.82     1     0     6                WAIVED     4/27
+P  RUSCH,GLENDON           11.1  7.15  1.94     1     0     8                WAIVED     5/11
+ 
+TEAM TOTAL                400.2  5.35  1.47    26    27   252            51.1  6.49  1.44     2     5    38 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                          Griffey and Co.                                                           
+                                                   ROTISSERIE STATS THROUGH  5/25                                                   
+                                        COMPOSITE                                        CURRENT WEEK
+POS     NAME                 AB  BAVG    HR    SB   RBI  RUNS             AB  BAVG    HR    SB   RBI  RUNS 
+C   STEINBACH,TER           116 0.267     2     0     9    16             20 0.350     0     0     4     2 
+1B  CLARK,TONY              165 0.273     5     2    30    25             28 0.464     1     1    10     7 
+3B  FRYMAN,TRAVIS           176 0.244     7     0    27    23             24 0.458     2     0    10     6 
+1/3 BOGGS,WADE               54 0.296     1     1    12     4             22 0.273     0     1     4     0 
+2B  ALOMAR,ROBERT           186 0.280     4     3    15    32             22 0.227     1     1     3     3 
+SS  MEARES,PAT              166 0.295     4     4    25    26             28 0.321     1     2     8     6 
+2/S ELSTER,KEVIN            161 0.248     5     0    27    26             18 0.389     0     0     5     6 
+OF  BRAGG,DARREN            106 0.274     3     2    16    15             22 0.273     0     1     3     1 
+OF  BUFORD,DAMON             66 0.273     2     4     6    10              0 0.000     0     0     0     0 
+OF  GOODWIN,TOM             175 0.309     1    19     9    32             21 0.286     0     2     2     4 
+OF  GRIFFEYJR,KEN           192 0.276    18     2    41    40             29 0.207     3     0     7     4 
+OF  O'LEARY,TROY            180 0.294    12     0    26    31             19 0.316     1     0     2     3 
+OF  WHITEN,MARK              13 0.385     2     0     5     3              4 0.500     1     0     1     1 
+UT  BAINES,HAROLD           117 0.308     3     0    22    13             15 0.400     0     0     6     1 
+ 
+ 
+    OTHER HITTERS
+1/3 SMITH,BOBBY              58 0.293     2     1     8     3                   RESERVED
+OF  BERROA,GERONI            49 0.204     0     1     2     4                   RESERVED
+ 
+    TEAM TOTAL             1980 0.278    71    39   280   303            272 0.331    10     8    65    44 
+ 
+ 
+                                             COMPOSITE                                   CURRENT WEEK
+                             IP   ERA  WHIP  WINS SAVES   K'S              IP   ERA  WHIP  WINS SAVES   K'S 
+P  COLON,BARTOLO           67.2  3.19  1.30     3     0    56             6.0 10.50  2.17     0     0     8 
+P  JAMES,MIKE              14.0  1.93  1.21     0     0    12             0.0 ----- -----     0     0     0 
+P  MONTGOMERY,JE           15.2  8.62  1.85     0     7    19             2.0 27.00  3.00     0     0     4 
+P  NAVARRO,JAIME           59.2  5.43  1.63     4     0    25             4.1 12.46  2.31     0     0     1 
+P  WILLIAMS,WOOD           66.0  2.59  1.11     5     0    50            15.0  0.60  0.87     2     0    10 
+P  WITT,BOBBY              49.0  7.71  1.86     4     0    24             3.2  7.36  1.91     0     0     3 
+P  MOEHLER,BRIAN           62.2  4.45  1.31     4     0    40            14.1  3.77  1.33     1     0     5 
+P  TROMBLEY,MIKE           11.1  5.56  1.76     1     0     6             3.0  9.00  2.00     0     0     3 
+P  LOWE,DEREK              11.2  4.63  1.54     0     0     9             1.1 33.75  4.50     0     0     1 
+ 
+      OTHER PITCHERS
+P  BALDWIN,JAMES           25.1  7.11  1.82     2     0    21                WAIVED     4/27
+P  MCDOWELL,JACK           31.0  4.06  1.42     1     0    25                RESERVED
+ 
+TEAM TOTAL                414.0  4.72  1.46    24     7   287            49.2  6.70  1.61     3     0    35 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                          Pitchers 'R' Us                                                           
+                                                   ROTISSERIE STATS THROUGH  5/25                                                   
+                                        COMPOSITE                                        CURRENT WEEK
+POS     NAME                 AB  BAVG    HR    SB   RBI  RUNS             AB  BAVG    HR    SB   RBI  RUNS 
+C   ALOMAR,SANDY            138 0.283     2     0    17    19             19 0.421     0     0     3     5 
+1B  STANLEY,MIKE            157 0.229     8     1    16    21             21 0.333     2     0     3     6 
+3B  HOLLINS,DAVE            166 0.235     6     6    17    25             24 0.208     1     1     2     3 
+1/3 MAGADAN,DAVE             87 0.322     1     0     9    10              0 0.000     0     0     0     0 
+2B  MARTIN,NORBER            68 0.221     1     1     8     9              2 0.000     0     0     0     1 
+SS  STOCKER,KEVIN           146 0.219     5     0    14    19             25 0.160     0     0     2     2 
+2/S BELL,DAVID(AL            66 0.242     1     0     6     8             19 0.211     0     0     2     4 
+OF  CANSECO,JOSE            182 0.247    16    12    35    30             26 0.308     4     1     7     7 
+OF  DUNSTON,SHAWO            99 0.212     1     5    10    16              5 0.200     1     0     1     1 
+OF  HUNTER,BRIANL           193 0.269     3    14    17    20             34 0.324     0     1     3     5 
+OF  JUSTICE,DAVID           175 0.291     9     1    38    31             24 0.167     0     0     2     3 
+OF  STRAWBERRY,DA            90 0.278     7     5    21    17              9 0.333     0     1     2     1 
+OF  WILLIAMS,BERN           164 0.311     5     8    27    35             24 0.292     2     1     8     5 
+UT  HINCH,A.J.              122 0.238     4     2    13    12             13 0.231     0     0     0     0 
+ 
+ 
+    OTHER HITTERS
+2B  PHILLIPS,TONY             0 0.000     0     0     0     0                   RESERVED
+ 
+    TEAM TOTAL             1853 0.258    69    55   248   272            245 0.265    10     5    35    43 
+ 
+ 
+                                             COMPOSITE                                   CURRENT WEEK
+                             IP   ERA  WHIP  WINS SAVES   K'S              IP   ERA  WHIP  WINS SAVES   K'S 
+P  ASSENMACHER,P           17.2  3.57  1.70     2     0    16             1.2  0.00  1.80     0     0     1 
+P  BELCHER,TIM             60.1  4.48  1.56     2     0    38             5.2 14.29  2.12     0     0     4 
+P  JOHNSON,RANDY           64.1  6.02  1.51     4     0    90            12.0  5.25  1.25     1     0    17 
+P  MARTINEZ,PEDR           72.1  1.74  0.97     5     0    88             7.0  1.29  0.86     1     0     5 
+P  MILTON,ERIC             51.0  4.94  1.63     3     0    18             6.0  4.50  2.00     0     0     1 
+P  MUSSINA,MIKE            50.0  2.52  0.94     4     0    48             0.0 ----- -----     0     0     0 
+P  TIMLIN,MIKE             27.2  5.20  1.34     1     1    18             4.2  5.79  1.29     0     0     2 
+P  SIMAS,BILL               3.1  8.10  2.70     0     1     0             2.1  3.86  1.29     0     0     0 
+ 
+      OTHER PITCHERS
+P  KARCHNER,MATT           12.0  3.75  1.17     0     4    12                RESERVED
+ 
+TEAM TOTAL                358.2  4.01  1.34    21     6   328            39.1  5.49  1.45     2     0    30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                          New kid in town                                                           
+                                                   ROTISSERIE STATS THROUGH  5/25                                                   
+                                        COMPOSITE                                        CURRENT WEEK
+POS     NAME                 AB  BAVG    HR    SB   RBI  RUNS             AB  BAVG    HR    SB   RBI  RUNS 
+C   RODRIGUEZ,IVA           178 0.393    10     2    34    36             24 0.458     3     0     4     8 
+1B  PALMEIRO,RAFA           182 0.275    11     3    37    28             29 0.310     4     0     7     5 
+3B  SPRAGUE,ED              164 0.238     4     0    16    23             18 0.333     0     0     3     6 
+1/3 COOMER,RON              179 0.274     8     1    26    22             20 0.350     1     0     5     5 
+2B  FERNANDEZ,TON           142 0.282     3     5    21    21             17 0.176     0     0     1     5 
+SS  CARUSO,MIKE              94 0.245     1     3    13    17             17 0.412     0     1     3     3 
+2/S LEMKE,MARK               57 0.228     0     0     5     5              2 0.500     0     0     0     0 
+OF  DAVIS,ERIC              108 0.296     8     4    15    21              6 0.000     0     0     0     0 
+OF  GREER,RUSTY             186 0.258     5     1    31    36             20 0.250     0     0     2     6 
+OF  RAINES,TIM              101 0.317     3     4    18    18             19 0.368     1     1     7     4 
+OF  SIERRA,RUBEN             74 0.216     4     2    11     7             20 0.200     1     2     2     3 
+OF  STEVENS,LEE             145 0.262    11     0    29    24             12 0.417     2     0     3     3 
+OF  DUCEY,ROB                53 0.245     0     0     3     7             19 0.421     0     0     1     6 
+UT  MARTINEZ,EDGA           177 0.277     7     0    31    22             26 0.423     0     0     2     3 
+ 
+ 
+    OTHER HITTERS
+SS  TEJADA,MIGUEL             0 0.000     0     0     0     0                   RESERVED
+2/S SADLER,DONNIE            11 0.000     0     0     1     1                   WAIVED     4/27
+OF  BUHNER,JAY               21 0.333     2     0     5     4                   RESERVED
+ 
+    TEAM TOTAL             1872 0.277    77    25   296   292            249 0.337    12     4    40    57 
+ 
+ 
+                                             COMPOSITE                                   CURRENT WEEK
+                             IP   ERA  WHIP  WINS SAVES   K'S              IP   ERA  WHIP  WINS SAVES   K'S 
+P  BERE,JASON              51.0  5.82  1.98     2     0    32            10.1  6.10  1.84     1     0     9 
+P  HAYNES,JIMMY            60.2  4.60  1.47     3     0    39            12.1  5.11  1.38     1     0     6 
+P  HENTGEN,PAT             58.2  4.45  1.31     6     0    34             8.0  1.13  1.25     1     0     7 
+P  HILL,KEN                61.2  4.23  1.57     7     0    38             8.2  3.12  1.73     1     0     8 
+P  MENDOZA,RAMIR           55.1  3.74  1.14     3     0    18             6.1  5.68  1.26     0     0     3 
+P  NAGY,CHARLES            62.1  6.06  1.68     5     0    38             5.0  9.00  2.20     1     0     2 
+P  SELE,AARON              73.2  2.57  1.13     8     0    59             9.0  2.00  0.89     1     0     9 
+P  SLOCUMB,HEATH           20.1 11.51  2.36     1     0    16             0.1 81.00 15.00     0     0     1 
+P  TAYLOR,BILLY            17.1  3.12  1.21     0     7    13             2.1  3.86  2.14     0     0     0 
+ 
+      OTHER PITCHERS
+P  GOODEN,DWIGHT            0.0 ----- -----     0     0     0                WAIVED     4/13
+ 
+TEAM TOTAL                461.0  4.69  1.48    35     7   287            62.1  4.76  1.57     6     0    45 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                          Mr. Lucky's Gang                                                          
+                                                   ROTISSERIE STATS THROUGH  5/25                                                   
+                                        COMPOSITE                                        CURRENT WEEK
+POS     NAME                 AB  BAVG    HR    SB   RBI  RUNS             AB  BAVG    HR    SB   RBI  RUNS 
+C   WILSON,DAN              134 0.239     3     1    21    18             18 0.333     0     0     1     3 
+1B  ERSTAD,DARIN            199 0.337    11     9    36    33             29 0.448     2     1     9     8 
+3B  RANDA,JOE               170 0.253     2     3    17    24             28 0.393     1     1     2     5 
+1/3 GIAMBI,JASON            173 0.260     5     0    30    24             25 0.160     0     0     2     5 
+2B  EASLEY,DAMION           166 0.331    12     4    40    31             30 0.367     4     0    14     5 
+SS  VIZQUEL,OMAR            176 0.307     0     7    21    30             23 0.391     0     3     3     5 
+2/S CRUZ,DEIVI               63 0.333     1     1     8     8             27 0.444     1     1     3     5 
+OF  BELLE,ALBERT            170 0.247     9     1    34    24             22 0.273     0     0     1     3 
+OF  HENDERSON,RIC           178 0.258     3    16    16    28             24 0.167     0     4     2     2 
+OF  MARTINEZ,DAVE           160 0.256     2     4    11    21             28 0.179     0     1     2     2 
+OF  ORDONEZ,MAGGL           154 0.253     6     2    16    25             13 0.231     0     0     2     1 
+OF  KELLY,MIKE               88 0.273     1     6     4    11             20 0.250     0     2     0     2 
+OF  MORRIS,HAL                9 0.333     0     0     1     1              9 0.333     0     0     1     1 
+UT  CORDERO,WIL              92 0.217     4     0    13    15             19 0.158     0     0     1     0 
+ 
+ 
+    OTHER HITTERS
+2/S LEDESMA,AARON             7 0.286     0     0     0     0                   WAIVED     5/ 4
+OF  TRAMMELL,BUBB             0 0.000     0     0     0     0                   TRADED     4/ 1
+OF  BUTLER,RICH              37 0.189     1     0     1     4                   WAIVED     4/27
+ 
+    TEAM TOTAL             1976 0.274    60    54   269   297            315 0.302     8    13    43    47 
+ 
+ 
+                                             COMPOSITE                                   CURRENT WEEK
+                             IP   ERA  WHIP  WINS SAVES   K'S              IP   ERA  WHIP  WINS SAVES   K'S 
+P  DICKSON,JASON           37.2  7.41  1.75     3     0    16             5.1  3.37  1.12     1     0     3 
+P  FINLEY,CHUCK            77.0  2.45  1.27     4     0    78            14.2  1.23  1.02     0     0    13 
+P  HOLTZ,MIKE              15.0  4.80  1.67     2     0    11             0.1 54.00  9.00     0     0     0 
+P  MESA,JOSE               30.0  4.50  1.30     3     0    24             4.1  6.23  1.62     0     0     2 
+P  PERCIVAL,TROY           18.2  4.82  1.39     0    12    22             1.0 18.00  5.00     0     1     1 
+P  ROSADO,JOSE             39.1  5.26  1.47     0     1    25             4.2  7.71  2.36     0     0     3 
+P  SAUNDERS,TONY           59.0  3.81  1.75     1     0    54            11.2  3.86  1.54     0     0    11 
+P  WELLS,DAVID             67.2  4.39  1.00     6     0    56             7.0  3.86  0.86     1     0     5 
+P  WETTELAND,JOH           19.2  1.83  0.61     2    13    24             2.0  9.00  1.00     1     1     3 
+ 
+      OTHER PITCHERS
+ 
+TEAM TOTAL                364.0  4.20  1.36    21    26   310            51.0  4.41  1.43     3     2    41 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           Blaise's Bunch                                                           
+                                                   ROTISSERIE STATS THROUGH  5/25                                                   
+                                        COMPOSITE                                        CURRENT WEEK
+POS     NAME                 AB  BAVG    HR    SB   RBI  RUNS             AB  BAVG    HR    SB   RBI  RUNS 
+C   POSADA,JORGE             73 0.247     3     0    11    13             12 0.167     0     0     3     2 
+1B  MARTINEZ,TINO           148 0.331     6     1    38    26              6 0.500     0     0     1     2 
+3B  TATIS,FERNAND           132 0.273     0     6    13    16             22 0.409     0     1     3     4 
+1/3 THOMAS,FRANK            172 0.279     8     2    35    33             24 0.250     2     0     6     4 
+2B  DURHAM,RAY              179 0.296     5    10    19    34             26 0.308     2     1     5     5 
+SS  DISARCINA,GAR           149 0.282     1     3    17    23             22 0.136     0     0     3     4 
+2/S BORDICK,MIKE            135 0.267     5     2    14    17             23 0.261     0     1     1     3 
+OF  CORDOVA,MARTY           110 0.264     2     1    20    17             21 0.333     2     0     4     5 
+OF  GONZALEZ,LUIS           153 0.314     4     3    21    26             27 0.370     1     0     3     4 
+OF  HAMMONDS,JEFF           121 0.273     5     7    20    23             28 0.321     1     1     7     5 
+OF  LAWTON,MATT             164 0.232     5     3    26    30             26 0.192     0     1     3     3 
+OF  MCDONALD,JASO            84 0.286     1     7    11    10             12 0.250     0     1     2     2 
+OF  O'NEILL,PAUL            174 0.305     3     4    30    25             29 0.310     0     0     5     7 
+UT  DELGADO,CARLO           105 0.276     3     0    13    10             29 0.207     0     0     2     1 
+ 
+ 
+    OTHER HITTERS
+C   GREENE,TODD               0 0.000     0     0     0     0                   RESERVED
+OF  MORRIS,HAL               84 0.429     1     0    13    14                   WAIVED     5/11
+ 
+    TEAM TOTAL             1983 0.288    52    49   301   317            307 0.280     8     6    48    51 
+ 
+ 
+                                             COMPOSITE                                   CURRENT WEEK
+                             IP   ERA  WHIP  WINS SAVES   K'S              IP   ERA  WHIP  WINS SAVES   K'S 
+P  AGUILERA,RICK           26.0  4.15  1.12     2     8    20             1.0  9.00  3.00     0     0     2 
+P  ALVAREZ,WILSO           55.1  4.39  1.34     4     0    44             4.2 11.57  1.50     0     0     5 
+P  AYALA,BOBBY             24.2  7.66  1.78     0     8    19             3.2 19.64  3.55     0     0     2 
+P  FASSERO,JEFF            56.0  2.73  1.11     5     0    36             7.0  5.14  1.57     0     0     2 
+P  HANSON,ERIK             45.0  6.00  2.02     0     0    20             2.0 27.00  5.00     0     0     3 
+P  JONES,TODD              17.1  2.60  1.44     0     8    16             3.0  6.00  1.67     0     2     2 
+P  WAKEFIELD,TIM           73.1  4.17  1.13     6     0    46             8.0  4.50  1.13     1     0     3 
+P  WRIGHT,JARET            57.2  4.99  1.51     2     0    46             7.2  2.35  1.04     1     0     6 
+P  SIROTKA,MIKE            68.2  4.46  1.24     6     0    40            14.2  4.91  1.16     1     0    10 
+ 
+      OTHER PITCHERS
+ 
+TEAM TOTAL                424.0  4.50  1.37    25    24   287            51.2  7.14  1.61     3     2    35 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                     Wally Pipp Sucked Anyways                                                      
+                                                   ROTISSERIE STATS THROUGH  5/25                                                   
+                                        COMPOSITE                                        CURRENT WEEK
+POS     NAME                 AB  BAVG    HR    SB   RBI  RUNS             AB  BAVG    HR    SB   RBI  RUNS 
+C   HOILES,CHRIS             82 0.195     2     0    11     8             10 0.000     0     0     0     0 
+1B  MCGRIFF,FRED            182 0.275     6     0    32    20             22 0.227     0     0     3     1 
+1/3 SORRENTO,PAUL           155 0.252     4     1    18    10             22 0.227     0     0     1     1 
+2B  KNOBLAUCH,CHU           170 0.259     4    10    18    30             19 0.421     2     1     8     8 
+SS  GONZALEZ,ALEX           187 0.235     3     9    19    22             28 0.214     2     2     5     4 
+2/S REBOULET,JEFF            21 0.190     0     0     1     4              3 0.000     0     0     0     1 
+OF  EDMONDS,JIM             169 0.314     9     1    31    33             27 0.370     2     0     6     6 
+OF  HILL,GLENALLE           154 0.312     7     1    18    26             25 0.280     0     0     2     4 
+OF  LEWIS,DARREN            148 0.291     2     5    14    18             18 0.278     0     0     1     2 
+OF  LOFTON,KENNY            190 0.284     4    13    28    38             22 0.273     1     0     7     6 
+OF  ABBOTT,JEFF              21 0.333     0     0     2     0              1 0.000     0     0     0     0 
+OF  BUTLER,RICH              10 0.100     0     0     0     0              0 0.000     0     0     0     0 
+UT  JEFFERSON,REG           100 0.300     2     0    11     9              9 0.222     0     0     0     0 
+ 
+ 
+    OTHER HITTERS
+OF  MYERS,ROD                 0 0.000     0     0     0     0                   RESERVED
+OF  KELLY,MIKE                0 0.000     0     0     0     0                   TRADED     4/ 1
+OF  TRAMMELL,BUBB            17 0.176     1     0     1     3                   RESERVED
+ 
+    TEAM TOTAL             1606 0.271    44    40   204   221            206 0.262     7     3    33    33 
+ 
+ 
+                                             COMPOSITE                                   CURRENT WEEK
+                             IP   ERA  WHIP  WINS SAVES   K'S              IP   ERA  WHIP  WINS SAVES   K'S 
+P  BENITEZ,ARMAN           17.2  4.58  1.47     1     6    31             0.0 ----- -----     0     0     0 
+P  JACKSON,MIKE            19.0  2.37  0.89     0    12    18             2.1  0.00  0.43     0     1     3 
+P  OGEA,CHAD               32.1  5.29  1.45     2     0    16             6.1  2.84  1.11     1     0     4 
+P  RADKE,BRAD              69.1  2.99  1.15     6     0    44            16.0  2.25  0.75     2     0     4 
+P  RHODES,ARTHUR           28.2  3.77  1.47     2     1    28             3.1  0.00  1.50     0     0     4 
+P  SANTANA,JULIO           18.2  3.38  1.34     1     0    10             4.1  0.00  1.15     0     0     2 
+P  WATSON,ALLEN            50.1  7.69  1.89     3     0    35             5.2 19.06  3.71     0     0     3 
+P  BURBA,DAVE              51.0  4.41  1.47     4     0    34             5.1  6.75  2.44     1     0     5 
+P  AVERY,STEVE              1.0  9.00  2.00     0     0     0             1.0  9.00  2.00     0     0     0 
+ 
+      OTHER PITCHERS
+P  ROSE,BRIAN              37.2  6.93  1.51     1     0    18                RESERVED
+P  TROMBLEY,MIKE            6.1  1.42  0.79     0     0     5                WAIVED     4/20
+ 
+TEAM TOTAL                332.0  4.72  1.42    20    19   239            44.1  5.08  1.51     4     1    25 

@@ -1,0 +1,26 @@
+ 
+                         TRANSACTIONS FOR WEEK OF 8/3
+ 
+           8/ 3  WAIVE       Steve's Q104 squad         OLIVER,DARREN         
+           8/ 3  RESERVE     Griffey and Co.            ALOMAR,ROBERTO        
+           8/ 3  CLAIM                                                        Griffey and Co.            CLAYTON,ROYCE(AL)   
+           8/ 3  CLAIM                                                        Murderer's row             LOAIZA,ESTEBAN(AL)  
+           8/ 3  RESERVE     Murderer's row             APPIER,KEVIN          
+           8/ 3  CLAIM                                                        Mr. Lucky's Gang           BALDWIN,JAMES       
+           8/ 3  WAIVE       Mr. Lucky's Gang           MESA,JOSE             
+           8/ 3  CLAIM                                                        Blaise's Bunch             ALVAREZ,GABE        
+           8/ 3  WAIVE       Blaise's Bunch             TATIS,FERNANDO        
+           8/ 3  CLAIM                                                        Steve's Q104 squad         ZEILE,TODD(AL)      
+           8/ 3  RESERVE     Steve's Q104 squad         CONINE,JEFF           
+           8/ 3  CLAIM                                                        Murderer's row             WILSON,ENRIQUE      
+           8/ 3  RESERVE     Murderer's row             BAUGHMAN,JUSTIN       
+           8/ 3  CLAIM                                                        Murderer's row             SWIFT,BILL          
+           8/ 3  WAIVE       Murderer's row             RUSCH,GLENDON         
+           8/ 3  WAIVE       Murderer's row             BLOWERS,MIKE          
+           8/ 3  ACTIVATE                                                     Murderer's row             EVANS,TOM           
+           8/ 3  RESERVE     Murderer's row             WASHBURN,JARROD       
+           8/ 3  ACTIVATE                                                     Murderer's row             KEY,JIMMY           
+           8/ 3  WAIVE       Frozen Tundra              ROBERTS,BIP           
+           8/ 3  ACTIVATE                                                     Frozen Tundra              CRUZJR,JOSE         
+           8/ 3  WAIVE       Wally Pipp Sucked Anyways  BUTLER,RICH           
+           8/ 3  ACTIVATE                                                     Wally Pipp Sucked Anyways  TRAMMELL,BUBBA      

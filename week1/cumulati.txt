@@ -1,0 +1,62 @@
+                                                     LOU GEHRIG FANTASY LEAGUE                                                      
+                                                  CUMULATIVE STANDINGS AS OF  4/ 6                                                  
+ 
+                                                           RANKING TOTALS                                                           
+                      TEAM      BAVG    HR    SB   RBI  RUNS   ERA  WHIP  WINS SAVES   K'S    TOTAL
+                 (WEIGHT)        1.0   1.0   1.0   1.0   1.0   1.0   1.0   1.0   1.0   1.0 
+ 
+          Griffey and Co.        1.0   8.5   5.5   5.0   8.5  10.0   9.0   8.0   7.5   8.5    71.50
+          Frozen Tundra          8.0   6.5   3.5  10.0   7.0   8.0   6.0  10.0   2.5   7.0    68.50
+          Big mouth's squad      5.0   6.5  10.0   2.0   1.0   9.0   8.0   8.0   2.5  10.0    62.00
+          Randy's Cavaliers     10.0   3.0   8.5   3.0   8.5   6.0  10.0   1.5   7.5   3.0    61.00
+          Steve's Q104 squad     3.0  10.0   3.5   9.0  10.0   3.0   5.0   4.0   2.5   4.0    54.00
+          Murderer's row         6.0   8.5   1.5   6.0   3.5   5.0   4.0   6.0   7.5   6.0    54.00
+          Mr. Lucky's Gang       7.0   1.0   8.5   1.0   2.0   7.0   7.0   4.0   7.5   8.5    53.50
+          Bucky & Sandel         9.0   5.0   7.0   8.0   6.0   1.0   1.0   1.5  10.0   2.0    50.50
+          New kid in town        2.0   4.0   1.5   7.0   3.5   4.0   3.0   8.0   2.5   5.0    40.50
+          Blaise's Bunch         4.0   2.0   5.5   4.0   5.0   2.0   2.0   4.0   5.0   1.0    34.50
+ 
+ 
+ 
+                                                      INDIVIDUAL STAT RANKINGS                                                      
+        Batting Average             Home Runs               Stolen Bases                 RBI                  Runs Scored      
+ 1   Randy's Cavalie 0.3333   Steve's Q104 sq     10   Big mouth's squ      9   Frozen Tundra       46   Steve's Q104 sq     40
+ 2   Bucky & Sandel  0.3222   Murderer's row       8   Randy's Cavalie      8   Steve's Q104 sq     39   Randy's Cavalie     39
+ 3   Frozen Tundra   0.3000   Griffey and Co.      8   Mr. Lucky's Gan      8   Bucky & Sandel      34   Griffey and Co.     39
+ 4   Mr. Lucky's Gan 0.2953   Frozen Tundra        7   Bucky & Sandel       6   New kid in town     33   Frozen Tundra       38
+ 5   Murderer's row  0.2671   Big mouth's squ      7   Griffey and Co.      5   Murderer's row      30   Bucky & Sandel      34
+ 6   Big mouth's squ 0.2640   Bucky & Sandel       6   Blaise's Bunch       5   Griffey and Co.     29   Blaise's Bunch      33
+ 7   Blaise's Bunch  0.2629   New kid in town      5   Frozen Tundra        4   Blaise's Bunch      28   Murderer's row      27
+ 8   Steve's Q104 sq 0.2599   Randy's Cavalie      4   Steve's Q104 sq      4   Randy's Cavalie     26   New kid in town     27
+ 9   New kid in town 0.2549   Blaise's Bunch       3   Murderer's row       3   Big mouth's squ     23   Mr. Lucky's Gan     26
+10   Griffey and Co. 0.2477   Mr. Lucky's Gan      2   New kid in town      3   Mr. Lucky's Gan     21   Big mouth's squ     25
+ 
+ 
+              ERA                      WHIP                     WINS                    SAVES                 K's (Pitch)      
+ 1   Griffey and Co. 2.9562   Randy's Cavalie 1.1538   Frozen Tundra        5   Bucky & Sandel       4   Big mouth's squ     55
+ 2   Big mouth's squ 3.2818   Griffey and Co. 1.1825   Griffey and Co.      4   Randy's Cavalie      2   Griffey and Co.     34
+ 3   Frozen Tundra   3.3750   Big mouth's squ 1.1934   Big mouth's squ      4   Murderer's row       2   Mr. Lucky's Gan     34
+ 4   Mr. Lucky's Gan 3.4679   Mr. Lucky's Gan 1.3211   New kid in town      4   Griffey and Co.      2   Frozen Tundra       30
+ 5   Randy's Cavalie 4.4505   Frozen Tundra   1.3393   Murderer's row       3   Mr. Lucky's Gan      2   Murderer's row      29
+ 6   Murderer's row  5.2326   Steve's Q104 sq 1.3486   Steve's Q104 sq      2   Blaise's Bunch       1   New kid in town     28
+ 7   New kid in town 5.2550   Murderer's row  1.3953   Mr. Lucky's Gan      2   Frozen Tundra        0   Steve's Q104 sq     24
+ 8   Steve's Q104 sq 5.4495   New kid in town 1.5503   Blaise's Bunch       2   Steve's Q104 sq      0   Randy's Cavalie     18
+ 9   Blaise's Bunch  6.4904   Blaise's Bunch  1.5577   Randy's Cavalie      1   Big mouth's squ      0   Bucky & Sandel      15
+10   Bucky & Sandel 10.6981   Bucky & Sandel  2.2642   Bucky & Sandel       1   New kid in town      0   Blaise's Bunch      14
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+ 
+                   Stats calculated using GRAND SLAM! by Center Field Software, 304-487-3553  http://www.cfld.com                   

@@ -1,0 +1,83 @@
+ 
+                                                          FREE AGENT LIST                                                           
+                                                            AS OF  6/15                                                             
+ 
+                           HITTERS                                           PITCHERS
+      NAME     AB  BAVG    HR    SB   RBI  RUNS    |      NAME        IP   ERA  WHIP  WINS SAVES   K'S 
+------------------------------------------------------------------------------------------------------------------------
+AMARAL,RICH    82 0.244     1     4     4    11    | ALDRED,SCOTT    9.2  2.79  1.45     0     0     5 
+BAKO,PAUL      71 0.225     1     0     9     9    | ANDUJAR,LUIS    2.2 10.13  1.88     0     0     1 
+BARTEE,KIMERA  47 0.213     2     3     5     9    | BAILES,SCOTT   23.1  4.63  1.67     1     0    18 
+BENJAMIN,MIKE 132 0.295     0     0    11    17    | BALDWIN,JAMES  56.0  8.68  2.02     2     0    39 
+BRANSON,JEFF   33 0.182     0     0     3     1    | BEVIL,BRIAN    31.0  5.52  1.58     3     0    38 
+BROWN,KEVINL.  75 0.280     0     0    10    10    | BOCHTLER,DOUG  26.1  3.76  1.29     0     0    16 
+BUSH,HOMER     15 0.467     0     2     1     5    | BROCAIL,DOUG   25.1  4.26  1.26     2     0    17 
+CATALANOTTO,F  69 0.246     2     1    11     7    | CADARET,GREG   17.1  2.60  1.10     1     1    17 
+CRESPO,FELIPE  55 0.236     0     3     6     5    | CARRASCO,HECT  21.1  6.33  1.78     0     0    16 
+CUMMINGS,MIDR  42 0.286     2     1     8     8    | CASTILLO,CARL  46.2  5.40  1.31     2     0    34 
+DALESANDRO,MA  25 0.320     1     0     3     1    | CASTILLO,FRAN  39.2 10.44  2.07     2     0    36 
+DIFELICE,MIKE 109 0.248     2     0    12     9    | CASTILLO,TONY  25.1  7.11  1.74     1     0    14 
+DUCEY,ROB     128 0.242     2     2    12    17    | CHARLTON,NORM  26.1  7.18  2.16     1     0    34 
+FASANO,SAL     82 0.159     1     0     6     7    | CORSI,JIM      33.1  2.43  1.08     2     0    23 
+GATES,BRENT   116 0.216     1     1    15    11    | CRABTREE,TIM   30.0  4.80  1.73     3     0    22 
+GIPSON,CHARLE  14 0.286     0     2     1     5    | CROW,DEAN       7.2  2.35  1.17     1     0     3 
+GIRARDI,JOE   103 0.252     1     2    14    13    | DELUCIA,RICH   31.2  6.25  1.74     1     0    28 
+GREBECK,CRAIG  81 0.272     2     0    10     8    | DRABEK,DOUG    71.0  6.72  1.42     5     0    38 
+HASELMAN,BILL  42 0.357     2     0     8     4    | FORDHAM,TOM    25.2  8.06  2.10     1     0    12 
+HOCKING,DENNY  70 0.143     0     1     4    17    | FOULKE,KEITH   31.0  4.65  1.06     1     1    30 
+HUSON,JEFF     42 0.190     1     1     4     7    | GARCES,RICH    29.0  2.48  1.21     1     1    28 
+KREUTER,CHAD   96 0.271     0     0    14    12    | GREISINGER,SE  19.0  4.26  1.47     0     0    13 
+LEDESMA,AARON  84 0.321     0     3     4     9    | GROOM,BUDDY    25.1  5.68  1.54     2     0    12 
+LUKE,MATT(AL)   2 0.000     0     0     0     0    | GUARDADO,EDDI  26.2  2.70  1.46     2     0    24 
+MACFARLANE,MI 100 0.280     5     0    18    18    | GUNDERSON,ERI  31.2  1.71  1.23     0     0    17 
+MARZANO,JOHN   30 0.267     0     0     4     2    | HANSON,ERIK    49.0  6.24  2.08     0     0    21 
+MASHORE,DAMON  86 0.244     2     1    10    11    | HARRIS,PEP     12.1  7.30  1.70     0     0     9 
+MCCARTY,DAVE   18 0.278     1     1     2     1    | HASEGAWA,SHIG  39.1  3.66  1.32     3     1    28 
+MERLONI,LOU    59 0.322     1     1    10     8    | HAWKINS,LATRO  84.1  4.80  1.34     4     0    45 
+MITCHELL,KEVI  61 0.213     0     0     8     7    | HERNANDEZ,XAV  16.1  4.96  1.35     2     1    16 
+NORTON,GREG    90 0.233     3     1    12    13    | HOLMES,DARREN  23.0  4.30  1.43     0     0    15 
+O'BRIEN,CHARL 121 0.289     3     0    14     8    | JOHNS,DOUG     43.1  4.57  1.62     2     0    17 
+OLIVER,JOE    123 0.260     4     0    21     8    | LEVINE,AL      21.2  5.40  1.57     0     0     3 
+PALMEIRO,ORLA   9 0.444     0     0     3     3    | LLOYD,GRAEME   15.2  1.72  0.57     1     0     9 
+PENDLETON,TER  90 0.267     1     0     7     7    | LOPEZ,ALBIE    38.2  2.56  1.27     2     0    24 
+RIPKEN,BILLY   69 0.290     0     3     5     8    | MAHAY,RON      16.2  3.78  1.50     1     0    10 
+RIVERA,LUIS    16 0.250     0     0     2     1    | MATHEWS,T.J.   26.0  5.54  1.69     3     0    18 
+SAMUEL,JUAN    35 0.171     0     3     1     6    | MCCARTHY,GREG   3.0  3.00  2.33     0     0     2 
+SHELDON,SCOTT   9 0.111     0     0     1     0    | MECIR,JIM      34.2  3.63  1.41     2     0    32 
+SHIPLEY,CRAIG  48 0.229     0     0     1     6    | MILLS,ALAN     30.2  4.70  1.57     1     0    20 
+SIMMS,MIKE     56 0.393     5     0    18    13    | MOHLER,MIKE    23.0  3.52  1.61     1     0    14 
+SNOPEK,CHRIS   77 0.247     0     2     3     9    | MORMAN,ALVIN   14.2  3.68  1.23     0     0    12 
+SOJO,LUIS      53 0.226     0     0     4     6    | NAULTY,DAN     14.1  5.65  1.33     0     0    10 
+SPENCER,SHANE   6 0.000     0     0     1     1    | NELSON,JEFF    31.0  4.94  1.87     3     2    24 
+SUTTON,LARRY  116 0.233     1     1    17    12    | OROSCO,JESSE   21.0  4.29  1.52     1     4    20 
+SVEUM,DALE     38 0.158     0     0     2     4    | PATTERSON,DAN  20.2  4.79  1.45     1     1    13 
+TAVAREZ,JESUS  11 0.182     1     0     1     1    | PERSON,ROBERT  13.1  8.10  1.95     2     0     9 
+VALENTIN,JAVI  75 0.240     1     0     7     7    | PLESAC,DAN     25.2  2.81  1.17     2     0    26 
+VARITEK,JASON 104 0.240     1     2    13    13    | PLUNK,ERIC     26.0  4.50  1.58     2     0    23 
+WALBECK,MATT  160 0.269     4     1    22    22    | PONSON,SIDNEY  37.2  6.21  1.65     0     1    27 
+WEBSTER,LENNY 122 0.238     4     0    16    15    | RISLEY,BILL    32.1  3.90  1.55     0     0    26 
+                                                   | RUEBEL,MATT     8.1  4.32  1.56     0     0     6 
+                                                   | RUNYAN,SEAN    21.2  4.15  1.57     1     0    18 
+                                                   | SAGER,A.J.     34.1  7.60  1.81     2     0    12 
+                                                   | SERAFINI,DAN    8.2  3.12  1.50     2     0     6 
+                                                   | SERVICE,SCOTT  30.2  3.82  1.66     1     0    36 
+ 
+                                                          FREE AGENT LIST                                                           
+                                                            AS OF  6/15                                                             
+ 
+                           HITTERS                                           PITCHERS
+      NAME     AB  BAVG    HR    SB   RBI  RUNS    |      NAME        IP   ERA  WHIP  WINS SAVES   K'S 
+------------------------------------------------------------------------------------------------------------------------
+                                                   | SIMAS,BILL     24.2  1.46  0.93     1     2    14 
+                                                   | SMALL,AARON    30.1  6.23  1.75     1     0    17 
+                                                   | SMITH,PETE(AL   4.2 11.57  2.79     0     0     3 
+                                                   | SPOLJARIC,PAU  30.2  4.99  1.47     3     0    34 
+                                                   | SWINDELL,GREG  42.1  2.76  1.18     1     1    33 
+                                                   | TROMBLEY,MIKE  39.1  2.75  1.32     2     0    38 
+                                                   | VILLONE,RON    12.1  2.19  1.62     0     0     5 
+                                                   | WALKER,JAMIE   17.1  9.87  1.90     0     0    15 
+                                                   | WASDIN,JOHN    34.0  5.82  1.50     3     0    20 
+                                                   | WASHBURN,JARR  19.2  2.29  1.32     2     0    12 
+                                                   | WHISENANT,MAT  23.0  5.48  1.26     0     0    16 
+                                                   | WHITE,RICK     14.1  6.91  1.81     0     0     7 
+                                                   | YAN,ESTEBAN    37.0  2.68  1.11     4     0    32 

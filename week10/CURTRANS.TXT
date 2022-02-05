@@ -1,0 +1,27 @@
+ 
+                         TRANSACTIONS FOR WEEK OF 6/8
+ 
+           6/ 8  CLAIM                                                        Pitchers 'R' Us            HERNANDEZ,ORLANDO   
+           6/ 8  RESERVE     Griffey and Co.            MCDOWELL,JACK         
+           6/ 8  CLAIM                                                        Griffey and Co.            STEIN,BLAKE         
+           6/ 8  RESERVE     Murderer's row             ESCOBAR,KELVIM        
+           6/ 8  CLAIM                                                        Murderer's row             STANTON,MIKE        
+           6/ 8  WAIVE       Murderer's row             DRABEK,DOUG           
+           6/ 8  CLAIM                                                        Murderer's row             PICHARDO,HIPOLITO   
+           6/ 8  TRADE       Wally Pipp Sucked Anyways  BENITEZ,ARMANDO       Pitchers 'R' Us            MILTON,ERIC         
+           6/ 8  TRADE       Wally Pipp Sucked Anyways  BURBA,DAVE            Pitchers 'R' Us            HERNANDEZ,ORLANDO   
+           6/ 8  RESERVE     Blaise's Bunch             HAMMONDS,JEFFREY      
+           6/ 8  RESERVE     Blaise's Bunch             ALVAREZ,WILSON        
+           6/ 8  CLAIM                                                        Blaise's Bunch             NEVIN,PHIL          
+           6/ 8  CLAIM                                                        Blaise's Bunch             PARQUE,JIM          
+           6/ 8  WAIVE       Frozen Tundra              MORGAN,MIKE           
+           6/ 8  ACTIVATE                                                     Frozen Tundra              GOODEN,DWIGHT       
+           6/ 8  WAIVE       Steve's Q104 squad         MASHORE,DAMON         
+           6/ 8  ACTIVATE                                                     Steve's Q104 squad         NIXON,OTIS          
+           6/ 8  WAIVE       Griffey and Co.            ELSTER,KEVIN          
+           6/ 8  CLAIM                                                        Griffey and Co.            SMITH,BOBBY         
+           6/ 8  TRADE       Randy's Cavaliers          CLARK,WILL            Pitchers 'R' Us            MAGADAN,DAVE        
+           6/ 8  TRADE       Randy's Cavaliers          MCCRACKEN,QUINTON     Pitchers 'R' Us            DUNSTON,SHAWON      
+           6/ 8  TRADE       Randy's Cavaliers          CONE,DAVID            Pitchers 'R' Us            JOHNSON,RANDY       
+           6/ 8  RESERVE     Randy's Cavaliers          ECKERSLEY,DENNIS      
+           6/ 8  CLAIM                                                        Randy's Cavaliers          FLORIE,BRYCE        

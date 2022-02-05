@@ -1,0 +1,18 @@
+ 
+                         TRANSACTIONS FOR WEEK OF 6/1
+ 
+           6/ 1  RESERVE     Murderer's row             KAMIENIECKI,SCOTT     
+           6/ 1  CLAIM                                                        Murderer's row             CARPENTER,CHRIS     
+           6/ 1  RESERVE     Frozen Tundra              ROBERTS,BIP           
+           6/ 1  RESERVE     Blaise's Bunch             MCDONALD,JASON        
+           6/ 1  CLAIM                                                        Blaise's Bunch             CHRISTENSON,RYAN    
+           6/ 1  CLAIM                                                        Frozen Tundra              WINN,RANDY          
+           6/ 1  CLAIM                                                        New kid in town            OCHOA,ALEX          
+           6/ 1  WAIVE       New kid in town            SIERRA,RUBEN          
+           6/ 1  WAIVE       New kid in town            LEMKE,MARK            
+           6/ 1  ACTIVATE                                                     New kid in town            TEJADA,MIGUEL       
+           6/ 1  TRADE       Steve's Q104 squad         SALMON,TIM            Murderer's row             CONINE,JEFF         
+           6/ 1  TRADE       Steve's Q104 squad         ESCOBAR,KELVIM        Murderer's row             HERNANDEZ,ROBERTO   
+           6/ 1  WAIVE       Griffey and Co.            SMITH,BOBBY           
+	   6/ 1  WAIVE       Murderer's row		PICHARDO,HIPOLITO
+	   6/ 1  ACTIVATE                 				      Murderer's row             KEY, JIMMY

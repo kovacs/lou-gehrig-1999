@@ -1,0 +1,13 @@
+ 
+                         TRANSACTIONS FOR WEEK OF 5/11
+ 
+           5/11  RESERVE     Frozen Tundra              ENCARNACION,JUAN      
+           5/11  ACTIVATE                                                     Frozen Tundra              ROBERTS,BIP         
+           5/11  CLAIM                                                        Murderer's row             DYE,JERMAINE        
+           5/11  WAIVE       Murderer's row             OCHOA,ALEX            
+           5/11  WAIVE       Blaise's Bunch             MORRIS,HAL            
+           5/11  ACTIVATE                                                     Blaise's Bunch             MCDONALD,JASON      
+           5/11  WAIVE       Murderer's row             RUSCH,GLENDON         
+           5/11  ACTIVATE                                                     Murderer's row             KAMIENIECKI,SCOTT   
+           5/11  RESERVE     Pitchers 'R' Us            KARCHNER,MATT         
+           5/11  CLAIM                                                        Pitchers 'R' Us            SIMAS,BILL          

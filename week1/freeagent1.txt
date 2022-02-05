@@ -1,0 +1,87 @@
+ 
+                                                          FREE AGENT LIST                                                           
+                                                            AS OF  4/ 6                                                             
+ 
+                           HITTERS                                           PITCHERS
+      NAME     AB  BAVG    HR    SB   RBI  RUNS    |      NAME        IP   ERA  WHIP  WINS SAVES   K'S 
+------------------------------------------------------------------------------------------------------------------------
+ABBOTT,JEFF     0 0.000     0     0     0     0    | AVERY,STEVE     2.2  3.38  0.38     0     0     1 
+BARTEE,KIMERA   1 0.000     0     0     0     1    | BAILES,SCOTT    0.2  0.00  3.00     0     0     1 
+BENJAMIN,MIKE   3 0.667     0     0     0     3    | BANKS,WILLIE    1.0 45.00  5.00     0     0     0 
+BLOWERS,MIKE    8 0.125     0     0     1     1    | BEVIL,BRIAN     4.0  2.25  0.50     1     0     6 
+BOLICK,FRANK    3 0.000     0     0     0     0    | BOCHTLER,DOUG   2.1 11.57  3.43     0     0     1 
+BORDERS,PAT    15 0.133     0     0     1     1    | BROCAIL,DOUG    1.2 16.20  3.00     0     0     1 
+BOURNIGAL,RAF  10 0.300     0     0     0     0    | BULLINGER,JIM   2.1  0.00  1.29     0     0     2 
+BRANSON,JEFF    2 0.000     0     0     0     0    | BURBA,DAVE      7.0  1.29  1.14     1     0     5 
+BROWN,KEVINL.   3 0.000     0     0     0     1    | CARLSON,DAN     5.0  9.00  2.20     0     0     6 
+BUSH,HOMER      0 0.000     0     0     0     1    | CARPENTER,CHR   6.0  6.00  1.50     0     0     6 
+BUTLER,RICH    15 0.400     2     1     5     6    | CASTILLO,CARL   4.0  9.00  1.25     0     0     5 
+CARUSO,MIKE    15 0.333     0     0     0     2    | CASTILLO,TONY   2.1  0.00  1.71     0     0     2 
+CATALANOTTO,F   2 0.000     0     0     0     0    | CHARLTON,NORM   2.1  7.71  2.14     0     0     4 
+CEDENO,DOMING   1 1.000     0     0     1     0    | CORSI,JIM       3.0  6.00  1.33     0     0     2 
+CRESPO,FELIPE   8 0.250     0     0     1     1    | CRABTREE,TIM    1.1 20.25  3.75     0     0     1 
+CUMMINGS,MIDR   1 0.000     0     1     0     0    | DELUCIA,RICH    1.2  5.40  3.00     0     0     2 
+DALESANDRO,MA   0 0.000     0     0     0     0    | DURAN,ROBERTO   2.2  0.00  0.38     0     0     2 
+DIFELICE,MIKE   6 0.500     1     0     7     2    | EYRE,SCOTT      4.1  8.31  3.00     0     0     2 
+FRAZIER,LOU     1 0.000     0     0     0     0    | FORDHAM,TOM     3.2 19.64  3.82     0     0     2 
+GARCIA,CARLOS   2 0.000     0     0     0     1    | FOSSAS,TONY     0.2 13.50  1.50     0     0     0 
+GATES,BRENT    13 0.077     1     0     1     2    | FOULKE,KEITH    1.2 10.80  3.00     0     0     2 
+GIPSON,CHARLE   2 0.000     0     1     0     1    | GARCES,RICH     4.2  7.71  2.57     0     0     6 
+GIRARDI,JOE     8 0.000     0     0     0     0    | GORECKI,RICK    4.2 11.57  2.57     0     0     2 
+GREBECK,CRAIG   5 0.200     1     0     2     2    | GROOM,BUDDY     1.2  0.00  2.40     0     0     1 
+GUILLEN,OZZIE   3 0.000     0     0     0     0    | GUARDADO,EDDI   1.1  6.75  1.50     1     0     2 
+HALTER,SHANE    9 0.333     1     0     1     1    | GUNDERSON,ERI   1.1  0.00  1.50     0     0     1 
+HANSEN,JED      2 0.000     0     0     0     0    | HASEGAWA,SHIG   3.0 12.00  2.00     0     0     4 
+HASELMAN,BILL   3 0.000     0     0     0     0    | HAWKINS,LATRO   6.1  2.84  1.11     0     0     4 
+HATTEBERG,SCO  11 0.364     1     0     5     1    | HOLMES,DARREN   1.2  0.00  2.40     0     0     0 
+HOCKING,DENNY   1 0.000     0     0     0     1    | KEAGLE,GREG     5.1  3.38  0.94     0     0     5 
+HUSON,JEFF      2 0.000     0     0     0     1    | LLOYD,GRAEME    2.0  9.00  1.50     0     0     2 
+INCAVIGLIA,PE   5 0.000     0     0     0     0    | LOPEZ,ALBIE     2.2  3.38  1.13     0     0     0 
+KREUTER,CHAD    7 0.286     0     0     0     1    | LOWE,DEREK      4.0  9.00  2.75     0     0     1 
+LEDESMA,AARON   6 0.333     0     0     0     0    | MATHEWS,TERRY   1.1  6.75  0.75     0     0     1 
+MACFARLANE,MI  11 0.091     0     0     0     1    | MECIR,JIM       3.1  0.00  0.30     0     0     2 
+MAGADAN,DAVE   10 0.300     0     0     1     0    | MILLS,ALAN      3.1  0.00  0.00     0     0     2 
+MANTO,JEFF      3 0.333     0     0     1     1    | MOEHLER,BRIAN   3.2 14.73  2.73     0     0     0 
+MARTIN,NORBER  15 0.200     0     0     1     2    | MORGAN,MIKE     7.0  2.57  1.29     0     0     4 
+MARTINEZ,FELI  16 0.000     0     0     0     1    | MORMAN,ALVIN    1.1  0.00  0.00     0     0     1 
+MITCHELL,KEVI   5 0.000     0     0     0     1    | NELSON,JEFF     3.1  5.40  1.80     1     0     2 
+MOLINA,IZZY     0 0.000     0     0     0     0    | OLIVARES,OMAR   3.0  3.00  1.00     0     0     5 
+MORRIS,HAL     21 0.190     0     0     1     1    | OQUIST,MIKE     5.1  3.38  1.31     0     0     5 
+NEVIN,PHIL      7 0.143     0     0     3     0    | OROSCO,JESSE    1.0  0.00  3.00     0     1     2 
+NORTON,GREG     7 0.143     0     0     1     1    | PERSON,ROBERT   3.0  3.00  1.67     0     0     3 
+O'BRIEN,CHARL  10 0.500     0     0     1     0    | PICHARDO,HIPO   7.0  0.00  1.00     0     0     6 
+OCHOA,ALEX     11 0.364     0     0     2     2    | PITTSLEY,JIM    3.0  3.00  0.67     0     0     1 
+OLIVER,JOE     12 0.167     0     0     3     1    | PLESAC,DAN      1.2  0.00  0.60     0     0     1 
+ORTIZ,DAVID    11 0.364     1     0     2     1    | PLUNK,ERIC      0.2 13.50  4.50     0     0     0 
+PENDLETON,TER  19 0.263     0     0     2     2    | QUANTRILL,PAU   3.1  0.00  0.30     0     0     5 
+PEREZ,ROBERT    1 0.000     0     0     0     0    | RAPP,PAT        7.0  0.00  1.14     0     0     3 
+POSADA,JORGE    5 0.600     1     0     2     2    | RISLEY,BILL     0.1 54.00  9.00     0     0     0 
+RIPKEN,BILLY   18 0.222     0     2     1     1    | RITCHIE,TODD    1.0  0.00  1.00     0     0     2 
+SAMUEL,JUAN     7 0.000     0     0     0     0    | RIZZO,TODD      3.0 21.00  3.33     0     0     1 
+SHIPLEY,CRAIG   2 0.000     0     0     0     0    | RODRIGUEZ,FRA   1.1 20.25  3.00     0     0     2 
+SIMMS,MIKE      3 0.333     1     0     2     1    | RUNYAN,SEAN     2.0  9.00  2.50     0     0     2 
+SMITH,BOBBY     1 1.000     0     0     0     1    | RUSCH,GLENDON   4.0 15.75  2.75     0     0     2 
+ 
+                                                          FREE AGENT LIST                                                           
+                                                            AS OF  4/ 6                                                             
+ 
+                           HITTERS                                           PITCHERS
+      NAME     AB  BAVG    HR    SB   RBI  RUNS    |      NAME        IP   ERA  WHIP  WINS SAVES   K'S 
+------------------------------------------------------------------------------------------------------------------------
+SNOPEK,CHRIS    4 0.500     0     0     0     0    | SAGER,A.J.      4.1  0.00  0.92     0     0     1 
+SUTTON,LARRY   14 0.143     0     0     5     0    | SANDERS,SCOTT   4.2 15.43  2.14     0     0     3 
+SVEUM,DALE      0 0.000     0     0     0     0    | SERVICE,SCOTT   2.2  3.38  2.25     0     0     4 
+VALENTIN,JAVI   7 0.286     0     0     0     0    | SHUEY,PAUL      1.1  0.00  0.00     0     0     1 
+VARITEK,JASON  10 0.200     0     0     0     2    | SMALL,AARON     0.2 13.50  3.00     0     0     0 
+VITIELLO,JOE    7 0.143     0     0     0     0    | SPOLJARIC,PAU   2.2  3.38  1.50     0     0     1 
+WALBECK,MATT   12 0.250     1     0     3     2    | SPRINGER,DENN  10.1  1.74  0.97     1     0     3 
+WEBSTER,LENNY   8 0.500     2     0     4     3    | STANTON,MIKE    0.2 13.50  4.50     0     0     1 
+WILKINS,RICK    8 0.375     1     0     2     3    | SWIFT,BILL      5.0  5.40  1.80     1     0     1 
+WILSON,ENRIQU   7 0.571     0     0     0     2    | SWINDELL,GREG   3.2  4.91  2.18     0     0     3 
+WOOD,JASON      1 0.000     0     0     0     0    | TATIS,RAMON     0.2 81.00 15.00     0     0     1 
+YOUNG,ERNIE    13 0.231     0     1     0     1    | TAYLOR,BILLY    3.1  8.10  2.10     0     0     0 
+                                                   | TROMBLEY,MIKE   4.1  0.00  1.15     0     0     5 
+                                                   | WASDIN,JOHN     1.0  0.00  1.00     1     0     1 
+                                                   | WELLS,BOB       2.2  6.75  1.88     0     0     1 
+                                                   | WHISENANT,MAT   3.1 16.20  2.10     0     0     2 
+                                                   | YAN,ESTEBAN     4.1  0.00  0.92     1     0     6 

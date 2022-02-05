@@ -1,0 +1,50 @@
+!! The Demo script
+Do
+
+   ScrollLeft delay=30 center=true text=\rLou \bGehrig   \gFantasy \yBaseball
+   Sleep delay=500
+      
+   ScrollLeft delay=30 center=true text=\g1998 \r Final \bStandings... 
+   Sleep delay=500
+
+
+   OverLeft delay=30 text=\rFirst Place: 
+   Sleep delay=600
+
+   ScrollLeft delay=30 center=true text=\gFrozen Tundra
+   Sleep delay=700
+
+   Blink times=15
+
+   OverUp delay=30 text=\rSecond Place: 
+   Sleep delay=600
+
+   ScrollLeft delay=30 center=true text=\gMr. Lucky's Gang
+   Sleep delay=700
+
+   Blink times=15
+
+   OverDown delay=30 text=\rThird Place: 
+   Sleep delay=600
+
+   ScrollLeft delay=30 center=true text=\gBlaise's Bunch    
+   Sleep delay=700
+
+   Blink times=15
+
+   OverRight delay=30 text=\rFourth Place: 
+   Sleep delay=600
+
+   ScrollLeft delay=30 center=true text=\gMurderer's Row 
+   Sleep delay=700
+
+   Blink times=15
+
+   ScrollLeft delay=30 startspace=20 endspace=20 text=The current time is \{tt} on \{mn}-\{dn}-\{yy}.
+   ScrollLeft delay=30 startspace=20 endspace=120 text=Today is \{DD}.
+
+   Pixel delay=10 pixels=15 clear=true
+   Sleep delay=1000
+
+!! repeat infinitely
+Repeat times=-1

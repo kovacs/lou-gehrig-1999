@@ -1,0 +1,36 @@
+ 
+                         TRANSACTIONS FOR WEEK OF 4/13
+ 
+           4/13  CLAIM                                                        Las Vegas Blackjacks       MORRIS,HAL          
+           4/13  CLAIM                                                        New kid in town            CARUSO,MIKE         
+           4/13  CLAIM                                                        Wally Pipp Sucked Anyway   BURBA,DAVE          
+           4/13  CLAIM                                                        Mr. Lucky's Gang           BUTLER,RICH         
+           4/13  CLAIM                                                        Steve's Q104 squad         RAPP,PAT                     
+           4/13  CLAIM                                                        Las Vegas Blackjacks       MORRIS,HAL          
+           4/13  CLAIM                                                        New kid in town            CARUSO,MIKE         
+           4/13  CLAIM                                                        Wally Pipp Sucked Anyway   BURBA,DAVE          
+           4/13  CLAIM                                                        Mr. Lucky's Gang           BUTLER,RICH         
+           4/13  CLAIM                                                        Steve's Q104 squad         RAPP,PAT            
+           4/13  CLAIM                                                        Murderer's row             SWIFT,BILL          
+           4/13  CLAIM                                                        Randy's Cavaliers          SANDERS,SCOTT       
+           4/13  CLAIM                                                        Pitchers 'R' Us            MAGADAN,DAVE        
+           4/13  CLAIM                                                        Las Vegas Blackjacks       POSADA,JORGE        
+           4/13  CLAIM                                                        New kid in town            TAYLOR,BILLY        
+           4/13  CLAIM                                                        Steve's Q104 squad         ORTIZ,DAVID         
+           4/13  CLAIM                                                        Murderer's row             OCHOA,ALEX          
+           4/13  CLAIM                                                        Randy's Cavaliers          SPRINGER,DENNIS     
+           4/13  CLAIM                                                        Pitchers 'R' Us            MARTIN,NORBERTO     
+           4/13  CLAIM                                                        Murderer's row             BLOWERS,MIKE        
+           4/13  RESERVE     Murderer's row             APPIER,KEVIN          
+           4/13  RESERVE     Randy's Cavaliers          RIVERA,MARIANO        
+           4/13  RESERVE     Steve's Q104 squad         DAVIS,CHILI           
+           4/13  RESERVE     Murderer's row             CONINE,JEFF           
+           4/13  RESERVE     Pitchers 'R' Us            PHILLIPS,TONY         
+           4/13  RESERVE     New kid in town            TEJADA,MIGUEL         
+           4/13  WAIVE       New kid in town            GOODEN,DWIGHT         
+           4/13  RESERVE     Mr. Lucky's Gang           KELLY,MIKE            
+           4/13  RESERVE     Las Vegas Blackjacks       GREENE,TODD           
+           4/13  RESERVE     Las Vegas Blackjacks       DELGADO,CARLOS        
+           4/13  RESERVE     Wally Pipp Sucked Anyway   OGEA,CHAD             
+           4/13  CLAIM                                                        Wally Pipp Sucked Anyway   TROMBLEY,MIKE       
+           4/13  RESERVE     Steve's Q104 squad         RIGBY,BRAD            
